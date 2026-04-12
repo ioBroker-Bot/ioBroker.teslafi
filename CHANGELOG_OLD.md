@@ -157,3 +157,19 @@ The TeslaFi adapter enables effortless integration of vehicle data from your Tes
 ### 0.0.1 (2024-10-24)
 
 - (hombach) initial release
+## 2.0.2 (2025-08-24)
+
+- (hombach) admin 7.6.17 recommended by ioBroker (#166)
+- (hombach) bumb adapter-core to 3.3.2 (#166)
+- (hombach) fix vulnerability
+- (hombach) bump dependencies
+
+## 2.0.1 (2025-06-08)
+
+- (hombach) add node.js 24 tests (#144)
+- (hombach) bump dependencies
+
+## 2.0.0 (2025-05-04)
+
+- (hombach) BREAKING: Dropped support for Node.js 18 (#135)
+- (hombach) BREAKING: Dropped support for js-controller 5 (#135)
